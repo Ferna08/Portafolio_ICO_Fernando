@@ -7,6 +7,7 @@ package com.tienda.domain;
 /**
  *
  * @author ferna
+ * 
  */
 public class Categoria {
     
